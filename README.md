@@ -1,2 +1,2 @@
 # WundernutFall2015
-My solution to Wunderdogs Megakolmio problem
+My solution to Wunderdog's Megakolmio problem
